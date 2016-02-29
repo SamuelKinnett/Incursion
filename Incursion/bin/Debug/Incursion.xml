@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Incursion
+</name>
+</assembly>
+<members>
+<member name="T:Incursion.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Incursion.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Incursion.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Incursion.My.Resources.Resources.Incursion_Main_Theme_Test1">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Incursion.My.Resources.Resources.Items">
+<summary>
+  Looks up a localized string similar to 0;Short-sword;3;3;1;1.1;100;A short iron sword, well forged and sturdy, with an unadorned guard and pommel. The grip is simple leather.
+0;Dagger;1;2;1;0.2;25;A small iron dagger, well forged and sturdy, with an unadorned guard and pommel. The grip is simple leather.
+0;Elegant Short-sword;6;6;1;1.2;235;A short steel sword of impeccable forging. The guard is engraved and the pommel is banded with gold leaf. The grip is fine quality leather, ensuring a tighter hold.
+0;Elegant Dagger;2;3;1;0.3;75;A small ste [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Incursion.My.Resources.Resources.MeetingWithAGod">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Incursion.My.Resources.Resources.Terrain">
+<summary>
+  Looks up a localized string similar to 0/0/ ;
+0/7/ ;
+0/8/ ;
+14/6/%;
+14/8/_;
+15/11/↑;
+15/4/↓;
+1/9/≈;
+6/14/░;
+10/10/ ;
+9/11/▒;
+8/7/⌂;
+2/10/♣;
+6/15/▒;
+9/10/│;
+9/10/─;
+9/10/┤;
+9/10/├;
+9/10/┴;
+9/10/┬;
+9/10/┼;
+9/10/┐;
+9/10/└;
+9/10/┌;
+9/10/┘;
+8/7/▲;
+15/8/¶;
+15/7/¡;.
+</summary>
+</member>
+</members>
+</doc>

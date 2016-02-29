@@ -1,0 +1,64 @@
+0;Short-sword;3;3;1;1.1;100;A short iron sword, well forged and sturdy, with an unadorned guard and pommel. The grip is simple leather.
+0;Dagger;1;2;1;0.2;25;A small iron dagger, well forged and sturdy, with an unadorned guard and pommel. The grip is simple leather.
+0;Elegant Short-sword;6;6;1;1.2;235;A short steel sword of impeccable forging. The guard is engraved and the pommel is banded with gold leaf. The grip is fine quality leather, ensuring a tighter hold.
+0;Elegant Dagger;2;3;1;0.3;75;A small steel dagger of impeccable forging. The guard is engraved and the pommel is banded with silver leaf. The grip is fine quality leather, ensuring a tighter hold.
+0;Tachi;5;7;1;0.7;320;An unusual sword from far off lands, light and with a strong, curved blade. The guard and pommel are unadorned and the grip is black leather.
+0;Uchigatana;7;10;1;1;560;An unusual sword from far off lands, light and with a strong, curved blade. The guard and pommel are coloured gold and the grip is high quality black leather.
+0;Wakizashi;10;15;1;1.1;860;An unusual sword from far off lands, light and with a strong, curved blade. The guard and pommel are coated in silver and the grip is of the highest quality black leather.
+0;Scimitar;6;8;1;1;390;An unusual sword from far off lands. It has a distinctive curved blade ending in a point. The guard and pommel are plated with gold. The grip is simple leather.
+0;Morning Star;5;8;1;2.1;200;A spiked iron ball at the end of an iron handle. It deals a lot of damage, but also weighs a lot. The grip is made of plain leather and the handle is unadorned.
+0;Flail;7;12;1;3;400;A spiked iron ball at the end of a thick iron chain. The chain is attatched to an unadorned handle with a plain leather grip. A heavy weapon that deals great damage.
+0;Greatsword;8;14;2;3;500;A large, two handed iron sword. The guard and pommel are unadorned and the grip is plain leather.
+0;Odachi;18;30;2;2.9;1860;An unsual sword from far off lands, light for it's size and with a strong, curved blade. The guard and pommel are intricately forged and plated with gold. The grip is made of the finest black leather.
+0;Falchion;12;20;2;3.5;1050;An unusual sword from far off lands. It has a distinctive, heavy curved blade ending in a point.
+0;Claymore;10;17;2;2.8;760;A large, two handed sword with a long and unusual forward-angled guard. The guard has elaborately forged tips and the pommel is unadorned. The grip is fine leather.
+0;Zweihander;20;34;2;4;1570;A massive two handed sword from a far off land. The large guard is elaborately forged yet the pommel is unadorned. The grip is high quality leather.
+0;Schweizersabel;15;26;2;3.2;1350;An unusual sword from a far off land with a slightly curved blade, sharpened on one side. The guard is elaborately forged and the pommel is unadorned. The grip is plain leather.
+1;Hard Leather Cap;1;1;0;0.1;10;A lightweight cap made of hardened leather. Will protect against light blows, but for large adversaries you may want something a little heftier.
+1;Cervelliere;2;2;0;0.2;25;A lightweight iron skull-cap used by low ranking soldiers and civilians. Offers reasonable protection whilst remaining affordable and unrestrictive.
+1;Kettle Hat;4;3;0;0.3;45;A commonly available metal helmet used by soldiers. Combines a wide brimmed metal hat with a mail coif for good protection from blows from above and arrows.
+1;Bascinet;6;5;0;0.5;100;A metal helmet covering the head and back of the neck, with a strange rounded point at the back. Incorporates an aventail to add extra protection.
+1;Visored Bascinet;7;6;0;0.6;150;A metal helmet covering the head and back of the neck, with a strange rounded point at the back. Incorporates an aventail to add extra protection and a lightweight metal visor covering the face, shaped like a cone.
+1;Barbute;9;8;0;0.9;240;A sturdy iron helmet covering the entire head. Features a 'T' shaped opening to allow the wearer to see.
+1;Sallet;10;8;0;0.7;360;A lightweight iron helmet covering the whole of the head. A visor protects the wearers face and allows vision. It also incorporates a bevor to protect the wearers neck.
+1;Great Helm;13;11;0;1.5;540;A strong, thick helmet made of iron that completely covers the wearers face. The angular features of the helmet aid in deflecting blows.
+1;Closed Helm;16;15;0;1.8;890;An expertly forged helmet made of steel. A traditional helmet of knights, it completely covers the head. A large pivoting visor can be lifted up to allow the wearer better vision when out of battle. Well rounded, blows glance off effortlessly. 
+1;Hard Leather Tunic;1;2;1;0.2;20;A tunic made of thick, hardened leather. Will provide basic protection, but stronger blows will go through easily.
+1;Iron Hauberk;3;5;1;0.7;50;A lightweight iron hauberk with quite coarse rings. A capable piece of armour which provides good defence against weak adversaries.
+1;Steel Hauberk;5;7;1;1;100;A lightweight steel hauberk with fine rings. A respectable piece of armour offering good protection against most foes.
+1;Brigandine;8;12;1;1.6;230;A medium weight padded leather jacket lined with iron plates. Provides good protection.
+1;Iron Cuirass;12;16;1;2.5;500;A heavy iron breastplate and back plate. A very sturdy set of armour, but quite heavy.
+1;Steel Cuirass;15;20;1;2.8;890;A heavy steel breastplate and back plate. A very sturdy set of armour that will deflect most blows, but very heavy.
+1;Iron Plate Torso;17;25;1;3.8;1050;A heavy set of torso armour incorporating a breastplate, backplate, a plackart to add another layer of defence and faulds to protect the waist and hips. Very heavy, but extremely strong.
+1;Steel Plate Torso;20;34;1;4.2;1490;A heavy set of torso armour incorporating a breastplate, backplate, a plackart to add another layer of defence and faulds to protect the waist and hips. Besagews protect the armpits. With this armour, blows will bounce harmlessly off your mighty torso, but make sure you have the strength to carry it's weight.
+1;Hard Leather Greaves;1;1;2;0.1;15;Greaves made from thick, tough leather. Will provide basic protection, but against strong attacks they will fall short.
+1;Iron Chausses;4;4;2;0.4;45;Mail leggings made of coarse iron rings. Provide good protection with little weight.
+1;Steel Chausses;7;6;2;0.6;80;Mail leggings made of fine steel rings. Provide respectable protection.
+1;Iron Plate Leggings;12;11;2;1.4;300;Heavy iron leggings, incorporating greaves to protect the lower legs, cuisses to protect the thighs and tassets to protect the upper legs.
+1;Steel Plate Leggings;14;13;2;1.9;350;Heavy steel leggings, incorporating greaves to protect the lower legs, cuisses to protect the thighs and tassets to protect the upper legs.
+1;Improved Iron Plate Leggings;17;15;2;2.4;570;Heavy iron leggings, incorporating greaves to protect the lower legs, cuisses to protect the thighs, tassets to protect the upper legs, sabatons to protect the feet and knee pads to protect the knees.
+1;Improved Steel Plate Leggings;20;19;2;3;690;Heavy steel leggings, incorporating greaves to protect the lower legs, cuisses to protect the thighs, tassets to protect the upper legs, sabatons to protect the feet and knee pads to protect the knees.
+1;Hard Leather Vambraces;1;1;3;0.1;10;Forearm guards made of hard, thick leather. Will provide basic protection from small foes and arrows, but nothing more.
+1;Iron Vambraces;3;2;3;0.3;25;Forearm guards made of thick leather with iron splints on over the top. Provide adequate protection from weak foes.
+1;Steel Vambraces;5;3;3;0.4;40;Forearm guards made of thick leather with steel splints over the top. Provide good protection against average foes.
+1;Iron Gauntlets;7;4;3;0.6;70;Gloves made of thick leather and covered with plates of iron. Provide good protection.
+1;Steel Gauntlets;9;5;3;0.8;90;Gloves made of thick leather and covered with plates of steel. Provide great protection against commonly faced foes.
+1;Iron Gauntlets with Pauldrons;12;7;3;1.4;150;Gloves made of thick leather and covered with plates of iron. Provide good protection. Thick pauldrons help to defend the shoulders and armpits.
+1;Steel Gauntlets with Pauldrons;15;9;3;1.6;230;Gloves made of thick leather and covered with plates of steel. Provide good protection. Thick pauldrons help to defend the shoulders and armpits.
+1;Iron Plate Arms;17;14;3;2;330;Full iron arm armour consisting of pauldrons to protect the shoulder and armpits, rerebraces to protect the upper arms, cowters to protect the elbows and gauntlets to protect the forearms and hands.
+1;Steel Plate Arms;20;17;3;2.3;480;Full steel arm armour consisting of pauldrons to protect the shoulder and armpits, rerebraces to protect the upper arms, cowters to protect the elbows and gauntlets to protect the forearms and hands.
+1;Wooden Buckler;3;3;4;0.3;15;A small circular wooden shield. Provides basic defence when employed for blocking.
+1;Iron Buckler;5;5;4;0.5;30;A small circular iron shield. Provides adequate defence when employed for blocking.
+1;Wooden Targe;7;7;4;0.6;45;A circular wooden shield with thin iron plates, big enough to provide decent protection yet light enough to be used easily.
+1;Iron Targe;9;9;4;0.9;90;A circular iron shield, big enough to provide good protection yet light enough to be used easily.
+1;Rondache;11;12;4;1.2;180;A circular metal shield, concave to help deflect blows and engraved decoratively.
+1;Hungarian Shield;13;15;4;1.4;300;An odd shield, shaped rectangular at the bottom and sweeping back to a point at the top, providing protection all the way to the head should the need arise.
+1;Heater Shield;15;18;4;1.6;520;A shield shaped like an iron, this shield provides great defence and covers the whole of the torso.
+1;Kite Shield;17;20;4;1.8;730;A shield shaped like a kite, pointed at the bottom and rounded at the top. The shield is tall and covers most of the body.
+1;Tower Shield;20;24;4;2;980;An unusual shield. Shaped like a concave rectangle, the shield covers the entire body and provides incredible defence, but requires great strength to wield effectively.
+2;Bread;5;0;3;0.1;5;A loaf of bread. Filling and nourishing, if a little plain.
+2;Ration Bundle;7;0;6;0.3;18;A full meal in one small bundle. Dried meats, bread, cheese, vegetables... delicious!
+2;Nairnbread;2;20;2;0.1;60;Strange bread from the far flung elven lands. Restores mana as well as providing nourishment.
+2;Feyleaf Brew;20;0;0;0.1;20;A deep red concotion within a stoppered flask, made from the leaves of the Fey tree. A marvellous restorative.
+2;Withernin Brew;0;20;0;0.1;20;A deep blue concoction contained within a stoppered flask, made from the withernin root. Restores magical energy.
+3;Magic Missile;8;5;0;10;0;Fires a bolt of pure magical energy. A simple spell, though it requires true wisdom to master.
